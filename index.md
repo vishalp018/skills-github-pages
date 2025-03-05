@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
-vishal pal
+title: Welcome to my blog by vishal pal
 ---
 
